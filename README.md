@@ -51,7 +51,10 @@
 
 <div align="center">
   <h3>📫 Contact Me:</h3>
-  <div style="margin-top: 10px; font-family: monospace;">
-    > findwannawhy@gmail.com
+  <div style="margin-top: 10px;">
+    <a href="mailto:findwannawhy@gmail.com">
+      <img src="https://img.shields.io/badge/Email-findwannawhy@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&link=https://gmail.com" alt="Email" />
+    </a>
+  </div>
   </div>
 </div>
