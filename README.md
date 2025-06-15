@@ -28,7 +28,12 @@
       <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel&theme=dark" alt="Tools" />
     </div>
   </div>
-  
+</div>
+
+<div align="center">
+  <h4>🥋 Codewars:</h4>
+  <img src="https://www.codewars.com/users/findwannawhy/badges/large" alt="Codewars Badge" />
+  <br/>
 </div>
 
 <div align="center">
@@ -45,15 +50,10 @@
 </div>
 
 <div align="center">
-  <h4>🥋 Codewars:</h4>
-  <img src="https://www.codewars.com/users/findwannawhy/badges/large" alt="Codewars Badge" />
-  <br/>
-</div>
-
-
-<div align="center">
   <h3>📫 Contact Me:</h3>
-  <a href="mailto:findwannawhy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <div style="margin-top: 10px; font-family: monospace; cursor: pointer;">
+    <a href="mailto:findwannawhy@gmail.com" style="text-decoration: none; color: inherit; outline: none;">
+      > findwannawhy@gmail.com
+    </a>
+  </div>
 </div>
