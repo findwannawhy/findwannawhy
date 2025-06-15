@@ -51,9 +51,7 @@
 
 <div align="center">
   <h3>📫 Contact Me:</h3>
-  <div style="margin-top: 10px; font-family: monospace; cursor: pointer;">
-    <a href="mailto:findwannawhy@gmail.com" style="text-decoration: none; color: #24292e; outline: none;">
-      > findwannawhy@gmail.com
-    </a>
+  <div style="margin-top: 10px; font-family: monospace;">
+    > findwannawhy@gmail.com
   </div>
 </div>
