@@ -43,7 +43,7 @@
 
 <div align="center">
   <h3>🎯 Current Projects:</h3>
-  <p><b>DeltaForge DeFi</b> - Solutions for automated delta-neutral strategies<br>
+  <p><a href="https://github.com/DeltaForge-DeFi" style="color:#000; font-weight:700; text-decoration: underline;">DeltaForge DeFi</a> - Solutions for automated delta-neutral strategies<br>
   <i>Frontend development (Vite, React, TypeScript), Smart Contracts (Solidity)</i></p>
 </div>
 
