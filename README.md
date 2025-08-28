@@ -32,15 +32,6 @@
       <b>Databases</b><br>
       <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
     </div>
-    <div>
-      <b>Libraries</b><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcn/ui" />
-      <img src="https://img.shields.io/badge/Axios-000000?logo=axios&logoColor=white&style=for-the-badge" alt="Axios" />
-      <img src="https://img.shields.io/badge/TanStack-000000?logo=reactquery&logoColor=white&style=for-the-badge" alt="TanStack" />
-      <img src="https://img.shields.io/badge/wagmi-000000?logo=wagmi&logoColor=white&style=for-the-badge" alt="Wagmi" />
-      <img src="https://img.shields.io/badge/viem-000000?logo=viem&logoColor=white&style=for-the-badge" alt="Viem" />
-    </div>
   </div>
 </div>
 
