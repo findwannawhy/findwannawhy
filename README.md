@@ -17,15 +17,28 @@
   <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
     <div>
       <b>Programming Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,solidity,python,cpp&theme=dark" alt="Programming Languages" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,go,solidity,cpp&theme=dark" alt="Programming Languages" />
     </div>
     <div>
-      <b>Frontend</b><br>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,vite&theme=dark" alt="Frontend" />
+      <b>Frontend & Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,vite,fastapi&theme=dark" alt="Frontend & Backend" />
+    </div>
+    <div>
+      <b>Databases</b><br>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
     </div>
     <div>
       <b>Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel&theme=dark" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,netlify&theme=dark" alt="Tools" />
+    </div>
+    <div>
+      <b>Libraries</b><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" alt="Axios" />
+      <img src="https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" alt="TanStack" />
+      <img src="https://img.shields.io/badge/wagmi-000000?logo=wagmi&logoColor=white&style=for-the-badge" alt="Wagmi" />
+      <img src="https://img.shields.io/badge/viem-000000?logo=viem&logoColor=white&style=for-the-badge" alt="Viem" />
     </div>
   </div>
 </div>
