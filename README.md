@@ -19,6 +19,11 @@
       <b>Programming Languages</b><br>
       <img src="https://skillicons.dev/icons?i=js,ts,python,go,solidity,cpp&theme=dark" alt="Programming Languages" />
     </div>
+    <div style="flex-basis: 100%; height: 0;"></div>
+    <div>
+      <b>Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,netlify&theme=dark" alt="Tools" />
+    </div>
     <div>
       <b>Frontend & Backend</b><br>
       <img src="https://skillicons.dev/icons?i=react,vite,fastapi&theme=dark" alt="Frontend & Backend" />
@@ -28,15 +33,11 @@
       <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
     </div>
     <div>
-      <b>Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,netlify&theme=dark" alt="Tools" />
-    </div>
-    <div>
       <b>Libraries</b><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcn/ui" />
-      <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" alt="Axios" />
-      <img src="https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" alt="TanStack" />
+      <img src="https://img.shields.io/badge/Axios-000000?logo=axios&logoColor=white&style=for-the-badge" alt="Axios" />
+      <img src="https://img.shields.io/badge/TanStack-000000?logo=reactquery&logoColor=white&style=for-the-badge" alt="TanStack" />
       <img src="https://img.shields.io/badge/wagmi-000000?logo=wagmi&logoColor=white&style=for-the-badge" alt="Wagmi" />
       <img src="https://img.shields.io/badge/viem-000000?logo=viem&logoColor=white&style=for-the-badge" alt="Viem" />
     </div>
